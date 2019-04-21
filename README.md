@@ -14,8 +14,10 @@ My name is Aswathi, welcome to my site!
 
 <p><strong>About Me</strong></p>
 
-<p> Hi, I'm Aswathi! I'm grew up in Dallas, but now I am a freshman in the McCombs School of Business at the 
-  University of Texas! Next year, I intend on majoring in Marketing and minoring in Management.  <br /><br /></p>
+<p> Hi, I'm Aswathi! I'm grew up in Dallas, but now I live in Austin as a Freshman in the McCombs School of Business at the 
+  University of Texas! Next year, I intend on majoring in Marketing and minoring in Management. Some of my favorite things 
+  to do are going on runs, being a mentor for students at Oak Spring Elementary, and more than anything- trying new food!
+  I'm excited to see where these next few years on the 40 acres takes me! <br /><br /></p>
 
 </body>
 
