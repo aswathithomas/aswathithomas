@@ -4,9 +4,9 @@ My name is Aswathi, welcome to my site!
 
 <center><img src="IMG_3567 (2).JPG" width="265" height="266" align="BOTTOM" /></center><hr />
 
-<p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>
+<p style="text-align: center;"><a href="https://www.netflix.com/browse">Click Here</a> to go to my favorite site</p>
 
-<h1 style="text-align: center;">My name is Pitbull</h1>
+<h1 style="text-align: center;">My name is Aswathi</h1>
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
@@ -14,7 +14,8 @@ My name is Aswathi, welcome to my site!
 
 <p><strong>About Me</strong></p>
 
-<p>This is a new paragraph! <br /><br /></p>
+<p> Hi, I'm Aswathi! I'm grew up in Dallas, but now I am a freshman in the McCombs School of Business at the 
+  University of Texas! Next year, I intend on majoring in Marketing and minoring in Management.  <br /><br /></p>
 
 </body>
 
