@@ -1,6 +1,4 @@
 # hello-world
-My name is Aswathi, welcome to my site!
-<p>&nbsp;</p>
 
 <center><img src="IMG_3567 (2).JPG" width="265" height="266" align="BOTTOM" /></center><hr />
 
