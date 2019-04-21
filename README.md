@@ -10,7 +10,7 @@ My name is Aswathi, welcome to my site!
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<body bgcolor = "LightSkyBlue">
+<body bgcolor = "Yellow">
 
 <p><strong>About Me</strong></p>
 
