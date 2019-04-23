@@ -17,6 +17,4 @@
 
 <p style="text-align"><a href="https://www.boredbutton.com/">Click Here</a> to go to my favorite site!</p>
 
-</body>
-
 <hr />
