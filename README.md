@@ -3,11 +3,7 @@
 
 <center><img src="https://user-images.githubusercontent.com/49724756/56473789-bb4de780-6435-11e9-90f8-e38046c03aa4.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
 
-<style>
-body {
-    background-color: #40E0D0;
-}
-</style>
+<style=background-color: #40E0D0</style>
 
 <p><strong>About Me</strong></p>
 
