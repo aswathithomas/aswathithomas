@@ -15,7 +15,7 @@
   
 <p><strong>My Favorite Website</strong></p>
 
-<p style="text-align: center;"><a href="https://www.boredbutton.com/">Click Here</a> to go to my favorite site!</p>
+<p style="text-align"><a href="https://www.boredbutton.com/">Click Here</a> to go to my favorite site!</p>
 
 </body>
 
