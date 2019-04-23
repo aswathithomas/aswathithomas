@@ -14,6 +14,11 @@
   
   <hr />
   
+<body>
+body {
+background-color: #d24dff
+} 
+  
 <p><strong>My Favorite Website</strong></p>
 
 <p style="text-align: center;"><a href="https://www.boredbutton.com/">Click Here</a> to go to my favorite site!</p>
