@@ -3,8 +3,6 @@
 
 <center><img src="https://user-images.githubusercontent.com/49724756/56473789-bb4de780-6435-11e9-90f8-e38046c03aa4.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
 
-<style=background-color: #40E0D0</style>
-
 <p><strong>About Me</strong></p>
 
 <p> Hi, I'm Aswathi! I'm grew up in Dallas, but now I live in Austin as a Freshman in the McCombs School of Business at the 
@@ -13,8 +11,7 @@
   I'm excited to see where these next few years on the 40 acres takes me! <br /><br /></p>
   
   <hr />
-  
-<body>
+ 
 body {
 background-color: #d24dff
 } 
