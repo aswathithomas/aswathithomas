@@ -11,11 +11,11 @@
   I'm excited to see where these next few years on the 40 acres takes me! <br /><br /></p>
   
   <hr />
- 
+<style>
 body {
 background-color: #d24dff
 } 
-  
+</style>
 <p><strong>My Favorite Website</strong></p>
 
 <p style="text-align: center;"><a href="https://www.boredbutton.com/">Click Here</a> to go to my favorite site!</p>
